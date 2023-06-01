@@ -59,4 +59,3 @@ https://www.reddit.com/r/IAmA/comments/2n02lt/iama_data_recovery_engineer_i_get_
 ## You better destroy your Drive to be sure
 - https://netcentrics.com/ghosts-users-past-recovering-data-discarded-resold-salvaged-stolen-hard-drives/
 
-## 
