@@ -39,28 +39,6 @@ https://en.wikipedia.org/wiki/Uplink_(video_game)
 
 https://en.wikipedia.org/wiki/Unforeseen_Incidents
 
-## Counter recovery practices, destroying drive
-
-- Destroy disk on to one, with a lever
-
-https://www.youtube.com/watch?v=dxNmCmTVbWo
-
-
-- How to demolish an old hard drive NBC News
-
-https://www.youtube.com/watch?v=jYsonW7dXyk
-
-
-- DEFCON conference, automate mutiples hard drive destruction as a last resort
-
-https://www.youtube.com/watch?v=-bpX8YvNg6Y
-
-- Conference of Aram Bartholl about Destroying data as a performative act
-
-https://media.ccc.de/v/31c3_-_6595_-_en_-_saal_1_-_201412281900_-_hard_drive_punch_-_aram_bartholl#t=1261
-
-- 
-
 ## Bitcoins recovery LOT OF MONEY
 
 - Joe Grand is a expert into hacking in various devices. The main goal is to retrieve money from the client
@@ -87,3 +65,30 @@ https://www.youtube.com/watch?v=vt8PyQ2PGxI
 - Scrotumdepoulpe do the same as micode 
 
 https://www.youtube.com/watch?v=Rixmt-pACPs
+
+
+## Internet Recovery
+
+- Explore more than 808 billion web pages saved over time
+http://web.archive.org/
+
+## Counter recovery practices, destroying drive
+
+- Destroy disk on to one, with a lever
+
+https://www.youtube.com/watch?v=dxNmCmTVbWo
+
+
+- How to demolish an old hard drive NBC News
+
+https://www.youtube.com/watch?v=jYsonW7dXyk
+
+
+- DEFCON conference, automate mutiples hard drive destruction as a last resort
+
+https://www.youtube.com/watch?v=-bpX8YvNg6Y
+
+- Conference of Aram Bartholl about Destroying data as a performative act
+
+https://media.ccc.de/v/31c3_-_6595_-_en_-_saal_1_-_201412281900_-_hard_drive_punch_-_aram_bartholl#t=1261
+
