@@ -100,3 +100,7 @@ https://www.youtube.com/watch?v=-bpX8YvNg6Y
 
 https://media.ccc.de/v/31c3_-_6595_-_en_-_saal_1_-_201412281900_-_hard_drive_punch_-_aram_bartholl#t=1261
 
+- Switzerland Geneva Professional hard drive destruction
+
+https://www.reisswolf.ch/fr/types-de-destruction/destruction-de-supports-numeriques/
+
