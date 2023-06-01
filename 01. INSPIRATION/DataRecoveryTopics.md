@@ -77,6 +77,7 @@ https://www.youtube.com/watch?v=Rixmt-pACPs
 ## Internet Recovery
 
 - Explore more than 808 billion web pages saved over time
+
 http://web.archive.org/
 
 ## Counter recovery practices, destroying drive
