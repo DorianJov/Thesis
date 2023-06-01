@@ -80,6 +80,12 @@ https://www.youtube.com/watch?v=Rixmt-pACPs
 
 http://web.archive.org/
 
+## Unconmon tools for data extraction 
+
+- Medical Equipment Used for Forensic Data Extraction: A low-cost solution for forensic laboratories not provided with expensive diagnostic or advanced repair equipment
+
+https://www.sciencedirect.com/science/article/abs/pii/S2666281720303942
+
 ## Counter recovery practices, destroying drive
 
 - Destroy disk on to one, with a lever
