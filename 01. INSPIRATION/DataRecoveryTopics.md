@@ -5,20 +5,25 @@ Here's a sorted list concerning differents topics about the recovery practices
 ## Arts using data recovery as a creative process
 
 - Collection of Six Corrupted Images Goes on Sale as NFT Art
+
 https://www.macgasm.net/news/collection-of-six-corrupted-images-goes-on-sale-as-nft-art/
 
 
 - When she got her computer back, there was another letdown: the thief had wiped her data and had been using the computer as his own. In an attempt to recover anything she could, Willhide decided to use recovery software on the hard drive.
+
 https://petapixel.com/2013/04/23/photographer-thankful-to-laptop-thief-for-new-creative-direction/
 
 - Warhol Digital Recovery Project
+
 https://studioforcreativeinquiry.org/project/warhol-data-recovery
 
 - Diego Collado (I think this process must mirror the way our own unconscious works: what seems like an irrational choice is really due to a set of information too complex for us to consciously understand, but which is nonetheless logical.)
+
 https://granta.com/data-recovery/
 
-3 projects about what our data can become
-- https://aksioma.org/forensic.fantasies
+- 3 projects about what our data can become
+
+https://aksioma.org/forensic.fantasies
 
 ## Video games
 
