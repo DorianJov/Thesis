@@ -45,6 +45,9 @@ https://en.wikipedia.org/wiki/Unforeseen_Incidents
 
 https://www.youtube.com/watch?v=dT9y-KQbqi4
 
+- Article about some client of Joe Grand and his father 
+https://www.bbc.com/news/technology-60318946
+
 ## Studies about the amount of data left in "old" drive
 
 - Study about the increasing number of ransomware and therefore the use of data recovery tools
