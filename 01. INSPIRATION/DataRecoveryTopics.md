@@ -56,7 +56,11 @@ https://elicit.org/search?q=ransomware+data+recovery&token=01H1S856BDY9PSK9J36JZ
 
 https://ieeexplore.ieee.org/document/9763996
 
-## Youtube content creator warnings, kind of encourages to not sell our drive
+## Accesibility of data recovery
+
+- Linus Tech Tips "Don't Waste $1000 on Data Recovery"
+
+https://www.youtube.com/watch?v=eyr14_B230o
 
 - MiCode(FR) explain the practice and make discovery
 
